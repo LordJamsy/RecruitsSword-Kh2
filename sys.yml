@@ -6,27 +6,21 @@
   fr: Épée d'apprenti
   jp: 新兵の剣 
 - id: 0x05C3
-  en: >-
-    A blade given to New Hyrule Recruits.
-    
-    Halves damage taken in critical situations.
-  it: >- 
-    Una lama consegnata alle reclute di Nuova Hyrule.
-    
-    Dimezza i danni subiti in situazioni critiche.
-  sp: >-
-    Una espada entregada a los reclutas de Nueva Hyrule.
-    
-    Reduce a la mitad el daño recibido en situaciones críticas.
-  gr: >- 
-    Eine Klinge für Rekruten von Neu-Hyrule.
-    
-    Halbiert den in kritischen Situationen erlittenen Schaden.
-  fr: >-
-    Une lame remise aux recrues de la Nouvelle-Hyrule.
-    
-    Réduit de moitié les dégâts subis dans les situations critiques.
-  jp: >- 
-    新ハイラル新兵に授けられる刃。
-    
-    窮地における被ダメージを半減させる。
+  en: " A blade given to New Hyrule Recruits. 
+        
+        Halves damage taken in critical situations."
+  it: " Una lama consegnata alle reclute di Nuova Hyrule.
+        
+        Dimezza i danni subiti in situazioni critiche."
+  sp: " Una espada entregada a los reclutas de Nueva Hyrule.
+        
+        Reduce a la mitad el daño recibido en situaciones críticas."
+  gr: " Eine Klinge für Rekruten von Neu-Hyrule.
+        
+        Halbiert den in kritischen Situationen erlittenen Schaden."
+  fr: " Une lame remise aux recrues de la Nouvelle-Hyrule.
+        
+        Réduit de moitié les dégâts subis dans les situations critiques."
+  jp: " 新ハイラル新兵に授けられる刃。
+        
+        窮地における被ダメージを半減させる。"
